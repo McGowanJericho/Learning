@@ -1,8 +1,7 @@
 This is the first Sentence with edits
 
-Second
+this is the Second Sentence with edits.
 
-Third
+This is the third Sentence with edits.
 
 Fourth
-
