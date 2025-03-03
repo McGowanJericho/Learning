@@ -4,4 +4,4 @@ Second
 
 Third
 
-This is hte fourth Sentence.
+This is the fourth Sentence.
