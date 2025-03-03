@@ -1,8 +1,7 @@
 This is the first Sentence.
 
-Second
+this is the Second Sentence.
 
 Third
 
 Fourth
-
