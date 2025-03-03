@@ -2,6 +2,6 @@ This is the first Sentence.
 
 this is the Second Sentence with edits.
 
-Third
+This is the third Sentence with edits.
 
 Fourth
